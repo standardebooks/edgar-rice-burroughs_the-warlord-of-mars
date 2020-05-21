@@ -43,8 +43,9 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Barsoom</meta>
+		<meta id="collection-1" property="belongs-to-collection">Martian Series</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
