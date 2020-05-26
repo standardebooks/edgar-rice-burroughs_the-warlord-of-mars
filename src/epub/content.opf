@@ -49,7 +49,7 @@
 		<dc:description id="description">John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Warlord of Mars&lt;/i&gt; begins after the previous installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian&lt;/a&gt; series abruptly ends: John Carter’s beloved princess Dejah Thoris has been imprisoned in the Temple of the Sun, whose rooms only revolve back to the entrance once every Barsoomian year. Now, Carter must mount a rescue to save the princess from certain doom.&lt;/p&gt;
-			&lt;p&gt;The novel, a fast-paced and straightforward tale of swashbuckling adventure, is another solid entry in Burroughs’ “swords-and-planets” corpus. It was originally serialized in four parts in &lt;i&gt;All-Story Magazine&lt;/i&gt; before being published as a novel in 1919.&lt;/p&gt;
+			&lt;p&gt;The novel, a fast-paced and straightforward tale of swashbuckling adventure, is another solid entry in &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs’&lt;/a&gt; “swords-and-planets” corpus. It was originally serialized in four parts in &lt;i&gt;All-Story Magazine&lt;/i&gt; before being published as a novel in 1919.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68</dc:source>
