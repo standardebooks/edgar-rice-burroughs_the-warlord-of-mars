@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 table{
-	margin: 1em auto;
 	border-collapse: collapse;
+	margin: 1em auto;
 }
 
 table td:first-child{
