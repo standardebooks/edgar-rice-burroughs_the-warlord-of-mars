@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/68</dc:source>
 		<dc:source>https://books.google.com/books?id=yQYPAAAAIAAJ</dc:source>
 		<meta property="se:word-count">57440</meta>
-		<meta property="se:reading-ease.flesch">61.09</meta>
+		<meta property="se:reading-ease.flesch">61.29</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Warlord_of_Mars</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-warlord-of-mars</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
